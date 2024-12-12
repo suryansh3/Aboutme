@@ -18,6 +18,10 @@ I'm currently learning Python by following Dr. Angela Yu 100 days to code challe
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<a href="https://app.daily.dev/suryanshmithu3">
+<img src="https://api.daily.dev/devcards/v2/sfYBWtzQTzVYS8Ht0yTJm.png?type=default&r=b8i" width="356" alt="Suryansh Mithu's Dev Card"/>
+</a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=suryansh3&icon=2&color=0)](https://visitcount.itsvg.in)
 
